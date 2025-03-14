@@ -1,0 +1,19 @@
+html, body {
+ height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #02331cc4;
+  font-family: Helvetica;
+}
+
+canvas {
+  display: block;
+  background-color: #02331cc4;
+}
